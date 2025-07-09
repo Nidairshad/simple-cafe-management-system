@@ -1,0 +1,6 @@
+name,left,purchased,price
+Tea,100,54,24
+Latte,101,59,100
+Cookie,14,54,100
+Crossiant,183,205,200
+
