@@ -21,7 +21,7 @@ cafe management system using javafx without database
 
 1. Clone or download this repo.
 2. Open it in IntelliJ IDEA.
-3. Make sure JavaFX is set up properly.
+3. Make sure JavaFX is set up properly.(if you re using intellij ide community version 2024 or after just import the library of java fx version you downloaded in the project structure under library section.)
 5. Run `Main.java`.
 
 ## how it looks:
